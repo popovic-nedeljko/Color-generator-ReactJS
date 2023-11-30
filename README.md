@@ -11,3 +11,8 @@ The application takes an input color, converts it into different shades and tint
 Users can also copy the hex value of each color to their clipboard by clicking on the color square.
 
 The React hooks, external package, and utility functions utilized in the application contribute to its smooth functionality and user-friendly interface.
+
+## NOTE*** 
+node version: 16.15.0
+
+npm version: 8.5.5
